@@ -9,6 +9,8 @@ version = "0.1.0"
 [tasks]
 day01-01 = "nu day-01/part-01.nu"
 day01-02 = "nu day-01/part-02.nu"
+day02-01 = "nu day-02/part-01.nu"
+day02-02 = "nu day-02/part-02.nu"
 
 [dependencies]
 nushell = ">=0.99.0,<0.100"
